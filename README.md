@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Fazylbekov
+- 👋 Hi, I’m @RamaDroneKz
 - 👀 I’m interested in automation and entreprize management
 - 🌱 I’m currently learning development operations
 - 💞️ I’m looking to collaborate on GIS technologies
